@@ -140,3 +140,13 @@
 - 环境文件
 
 因此当前仓库已经满足“源码、文档、图表可上传 GitHub，运行时大文件不上传”的目标。
+
+实际远端仓库：
+
+- `https://github.com/richardlee1106/vector-encode`
+
+已执行：
+
+- `git remote add origin https://github.com/richardlee1106/vector-encode.git`
+- `git commit -m "init vector-encode"`
+- `git push -u origin main`

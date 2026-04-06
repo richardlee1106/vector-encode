@@ -6,6 +6,10 @@
 
 - `D:\AAA_Edu\vector-encode`
 
+GitHub：
+
+- `https://github.com/richardlee1106/vector-encode`
+
 ## 保留了哪些核心内容
 
 - 双模型 + 双塔主线实现
